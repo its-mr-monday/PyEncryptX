@@ -7,6 +7,7 @@ Python based Gui tool to encrypt files with a passcode (cross-platform)
   
 # EncryptX Future
   Hope to add the following features in the future:
+  
     -Key Generator Including:
       -RSA key pair generator
       -SHA265 key generator
